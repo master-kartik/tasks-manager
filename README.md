@@ -35,9 +35,9 @@ Indexes are added on commonly searched fields like status, due date and title fo
 
 ## 2.1.3.3 Structure of the Application  
 
-The project is divided into two folders:
+The project is divided single folder with server as a subfolder
 
-- **client** → Frontend (React + Vite)  
+- **root** → Frontend (React + Vite)  
 - **server** → Backend (Express.js - MVC pattern)  
 
 ### 2.1.3.3.1 SPA Approach  
@@ -80,11 +80,10 @@ Frontend:
 - React  
 - Vite  
 
-There are two `.env` files:
 - Root `.env` (used by server)  
-- `client/.env` (used by frontend)  
 
-For easier testing of this assessment, I have temporarily included my personal `.env` file in the repository (I understand this is not safe in production).
+
+For easier testing of this assessment, I have temporarily included my personal `.env` file in the server path of repository (I understand this is not safe in production).
 
 ---
 
