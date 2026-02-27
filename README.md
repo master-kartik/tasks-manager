@@ -1,5 +1,12 @@
 # Task Management App
 
+## Deployed URL
+
+You can easily use the deployed version on render here
+https://task-manager-qxcu.onrender.com
+
+
+
 
 ## 2.1.3.1 Overview of what is being built  
 
